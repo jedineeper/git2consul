@@ -1,8 +1,8 @@
 {
-  'first_level' : {
-    'second_level' : {
-      'third_level' : {
-        'you get the picture' : 'right?'
+  "first_level": {
+    "second_level": {
+      "third_level": {
+        "you get the picture": "right?"
       }
     }
   }
